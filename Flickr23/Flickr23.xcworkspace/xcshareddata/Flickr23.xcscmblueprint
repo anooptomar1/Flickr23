@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B2FAB8F32F454AA23090DBD55F39B9A9441E00DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F8D5CCC0B848103AC2897358123470ADD4BF6303" : 0,
+    "B2FAB8F32F454AA23090DBD55F39B9A9441E00DA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "61128231-DE0B-47F1-96A8-1A36635113FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F8D5CCC0B848103AC2897358123470ADD4BF6303" : "..",
+    "B2FAB8F32F454AA23090DBD55F39B9A9441E00DA" : "Flickr23\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Flickr23",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Flickr23\/Flickr23.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/anooptomar1\/Flickr23.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B2FAB8F32F454AA23090DBD55F39B9A9441E00DA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/anooptomar\/bt-car.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F8D5CCC0B848103AC2897358123470ADD4BF6303"
+    }
+  ]
+}

@@ -33,6 +33,11 @@ class PhotosViewController: UIViewController {
         }
     }
     
+    override func viewWillDisappear(animated: Bool) {
+        super.viewWillDisappear(animated)
+        FlickrClient.sharedInstance.cancelAll()
+    }
+    
     func getAllFavPhotos(){
         FlickrClient.sharedInstance.getFavList { (favPhotos: [Photo]) -> Void in
             self.favPhotos = favPhotos

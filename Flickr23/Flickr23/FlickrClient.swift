@@ -94,6 +94,10 @@ class FlickrClient: BDBOAuth1RequestOperationManager {
         }
     }
     
+    func cancelAll(){
+        FlickrClient.sharedInstance.operationQueue.cancelAllOperations()
+    }
+    
     func logout() -> Bool{
         let deauth = FlickrClient.sharedInstance.deauthorize()
         if deauth{
